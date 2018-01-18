@@ -1,7 +1,9 @@
 miniVideoRecording
 ===
 
-http://xem/github.io/miniVideoRecording
+webkit only!
+
+http://xem.github.io/miniVideoRecording
 
 1) click record
 2) do something
