@@ -1,11 +1,10 @@
 miniVideoRecording
 ===
 
-webkit only!
-
 http://xem.github.io/miniVideoRecording
 
-1) click record
-2) do something
+0) Allow webcam/mic access
+1) click rec
+2) Do stuff
 3) click stop
-4) your something is replayed and is downloadable!
+4) Click the DL link to save your video!
