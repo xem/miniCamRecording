@@ -1,7 +1,7 @@
-miniVideoRecording
+miniCamRecording
 ===
 
-http://xem.github.io/miniVideoRecording
+http://xem.github.io/miniCamRecording
 
 0) Allow webcam/mic access
 1) click rec
